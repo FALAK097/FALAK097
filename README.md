@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Front End Dev**
 
-- 📫 How to reach me **galafalak09@gmail.com**
+- 📫 How to reach me **falakgala09@gmail.com**
 
 - 📄 Know about my experiences <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:95bf7516-eb7a-4f76-b0f6-09b03375575a" target="_blank">Resume</a>
 
