@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **falakgala09@gmail.com**
 
-- 📄 Know about my experiences <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:95bf7516-eb7a-4f76-b0f6-09b03375575a" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:983afb45-ad68-485f-9f3d-079eb3758665" target="_blank">Resume</a>
 
 - ⚡ I love **Watching & Playing Football**:soccer:
 
