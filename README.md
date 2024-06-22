@@ -2,15 +2,11 @@
 <img align="right" alt="Coding" width="400" src="coding.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falak097&label=Profile%20views&color=0e75b6&style=flat" alt="falak097" /> </p>
 
-- :computer: I’m a Final Year **Computer Engineering Student**
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Front End Dev**
 
 - 📫 How to reach me **<falakgala09@gmail.com>**
-
-- 📄 Know about my experiences <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:186a790c-f8f9-41b0-818a-3b6dcbcfc7b5" target="_blank">Resume</a>
 
 - ⚡ I love **Watching & Playing Football**:soccer:
 
